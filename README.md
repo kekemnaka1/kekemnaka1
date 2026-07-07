@@ -40,7 +40,7 @@ CNN-LSTM models outperformed all baseline approaches with R²=0.93 on hydrologic
 
 ## Experience Highlights
 
-- 🏥 **Co-Founder & CTO, OncoAssist** — AI clinical platform, FAST Accelerator accepted, Epic FHIR/HL7 integration on AWS
+- 🏥 **Founder & CTO, OncoAssist** — AI clinical platform, FAST Accelerator accepted, Epic FHIR/HL7 integration on AWS
 - ⚡ **Graduate Energy Analyst, Enercon Power** (Jakarta) — ML forecasting, Power BI dashboards, enterprise data pipelines
 - 🚁 **Co-Founder, Fligh Technologies** — Clean energy UAV systems, 3× national innovation champion
 - 🎓 **Innovation Analyst, ASU Helios Decision Center** — Government and university analytics programs
