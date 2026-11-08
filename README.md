@@ -7,7 +7,7 @@
 
 I build software-driven engineering systems that connect **physical equipment, telemetry, cloud services, and machine learning**. My work spans UAV electronics and sensor integration, Python-based data and diagnostic workflows, streaming predictive maintenance, and LLM-powered incident investigation.
 
-**Education:** M.S **Data Science**, ASU Thunderbird (2026) · B.Tech (Honours), Electronic Engineering, Harare Institute of Technology (2021).
+**Education:** M.S **Data Science**, Arizona State University (2026) · B.Tech (Honours), Electronic Engineering, Harare Institute of Technology (2021).
 
 ## Featured Engineering & AI Projects
 
