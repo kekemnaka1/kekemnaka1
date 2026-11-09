@@ -2,7 +2,7 @@
 
 **Systems Engineer · AI/ML Engineer · Python Automation · Embedded & Cloud Systems**
 
-📍 Phoenix, Arizona · Open to relocation across the U.S. · F-1 OPT approved  
+📍 Phoenix, Arizona · Open to relocation across the U.S.  
 📧 [kmunakan@asu.edu](mailto:kmunakan@asu.edu) · [LinkedIn](https://linkedin.com/in/kekemnaka)
 
 I build software-driven engineering systems that connect **physical equipment, telemetry, cloud services, and machine learning**. My work spans UAV electronics and sensor integration, Python-based data and diagnostic workflows, streaming predictive maintenance, and LLM-powered incident investigation.
